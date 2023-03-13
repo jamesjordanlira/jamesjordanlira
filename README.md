@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jaime Jordan</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
-<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47iligugdky2h5a70o3i8371ennnebvln4f6skrlke&rid=giphy.gif&ct=g">
+<img class="code" align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47iligugdky2h5a70o3i8371ennnebvln4f6skrlke&rid=giphy.gif&ct=g">
+
+	<style>
+		.code {
+			box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.3);
+			/* Aquí se define la sombra con los valores:
+			   - desplazamiento horizontal = 0px
+			   - desplazamiento vertical = 0px
+			   - desenfoque = 10px
+			   - tamaño de la sombra = 5px
+			   - color de la sombra = negro con opacidad 0.3
+			*/
+		}
+	</style>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesjordanlira&label=Profile%20views&color=0e75b6&style=flat" alt="jamesjordanlira" /> </p>
 
