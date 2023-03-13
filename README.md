@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesjordanlira&label=Profile%20views&color=0e75b6&style=flat" alt="jamesjordanlira" /> </p>
 
-- 🌱 I’m currently learning **React,Next,Strappi,Express**
+- 🌱 I’m currently learning **React, Next, Strappi, Express**
 
 - 💬 Ask me about **Html5, Js, Sass, Bootstrap5, TailwindCss**
 
