@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaime Jordan</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/drive/folders/1pczZY9wpRoDbiYfsxlxp-6M3DSAgKZEx/code.gif">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/drive/folders/1pczZY9wpRoDbiYfsxlxp-6M3DSAgKZEx/Imagenes/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesjordanlira&label=Profile%20views&color=0e75b6&style=flat" alt="jamesjordanlira" /> </p>
 
