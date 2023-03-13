@@ -1,3 +1,4 @@
+<img align="right"   src="https://cdn-images-1.medium.com/max/1096/1*i8-u-V8LTTbQwTeUwLI_BQ.gif">
 <h1 align="center">Hi 👋, I'm Jaime Jordan</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 <img align="right" alt="Coding" width="250" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47iligugdky2h5a70o3i8371ennnebvln4f6skrlke&rid=giphy.gif&ct=g">
