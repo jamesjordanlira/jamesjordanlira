@@ -5,13 +5,7 @@
 	<style>
 		.code {
 			box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.3);
-			/* Aquí se define la sombra con los valores:
-			   - desplazamiento horizontal = 0px
-			   - desplazamiento vertical = 0px
-			   - desenfoque = 10px
-			   - tamaño de la sombra = 5px
-			   - color de la sombra = negro con opacidad 0.3
-			*/
+			
 		}
 	</style>
 
