@@ -3,7 +3,7 @@
 <img class="code" align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47iligugdky2h5a70o3i8371ennnebvln4f6skrlke&rid=giphy.gif&ct=g">
 <style>
 .code {
-box-shadow: 10px 5px 10px 5px #000);
+box-shadow: 10px 5px 10px 5px black);
 			
 }
 </style>
